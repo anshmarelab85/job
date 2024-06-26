@@ -1,6 +1,5 @@
-console.log("testttt")
   (function ($) {
-  
+  console.log("testttsss")
   "use strict";
 
     // COUNTER NUMBERS
