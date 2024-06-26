@@ -4,7 +4,6 @@
     // COUNTER NUMBERS
     jQuery('.counter-thumb').appear(function() {
       jQuery('.counter-number').countTo();
-      console.log(jQuery('.counter-number').countTo())
     });
 
     // REVIEWS CAROUSEL
